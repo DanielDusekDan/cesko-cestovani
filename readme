@@ -1,0 +1,31 @@
+# Cestování po ČR - Webový projekt
+
+## 📋 Popis projektu
+Webová stránka o cestování po České republice vytvořená pomocí AI.
+
+## 🚀 Použité technologie
+- **HTML5** - Struktura webových stránek
+- **CSS3** - Stylování a responzivní design
+- **Git & GitHub** - Verzování a hostování
+
+## 🤖 Použité AI nástroje a prompty
+**Nástroj:** DeepSeek AI
+
+**Prompty:**
+1. "Vytvoř web o cestování po ČR s 3 stránkami v češtině"
+2. "Generuj HTML strukturu pro úvodní stránku, o-nas a kontakty"
+3. "Vytvoř moderní CSS stylování s responzivním designem"
+4. "Přidej dokumentaci v README.md"
+
+## 📁 Struktura projektu
+
+
+## 📝 Postup vytvoření
+1. Vytvoření základní struktury HTML souborů
+2. Implementace responzivního CSS
+3. Přidání navigace mezi stránkami
+4. Optimalizace pro mobilní zařízení
+5. Publikování na GitHub Pages
+
+## 👥 Autoři
+Projekt vytvořen s asistencí AI (Deepseek) pro vzdělávací účely. 
